@@ -33,7 +33,7 @@ const About = () => {
 
           <div className='about__me-text'>
           <p>I am a self-taught/front-end developer looking for a job or internship in this position. I would like to develop my skills under the guidance of experienced programmers.
-          Since October, a student in the field of Computer Science. Specialization: front-end developer at WSB.</p>
+          As of October, I am starting my studies in Computer Science.</p>
           </div>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
