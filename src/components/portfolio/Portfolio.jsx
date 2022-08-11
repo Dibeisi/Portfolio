@@ -9,7 +9,7 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Converter Celsius to Fahrenheit',
+    title: 'Converter °C to °F',
     github: 'https://github.com/Dibeisi/Converter',
     demo: 'https://s027q6.csb.app/'
   },
