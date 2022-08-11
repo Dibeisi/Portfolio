@@ -10,6 +10,7 @@
     border-radius: 2rem;
     border: 1px solid transparent;
     transition: var(--transition);
+    text-align: center;
 }
 
 .portfolio__item:hover {
@@ -30,6 +31,8 @@
     display: flex;
     gap: 1rem;
     margin-bottom: 1rem;
+    justify-content: center;
+    margin: auto;
 }
 
 /* ================= MEDIA QUERIES (MEDIUM DEVICES) =============== */
