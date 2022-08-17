@@ -18,7 +18,7 @@ const data = [
     image: IMG2,
     title: 'TodoList App',
     github: 'https://github.com/Dibeisi/ToDoList',
-    demo: 'https://23ykrj.csb.app/'
+    demo: 'https://k4swk9.csb.app/'
   },
   {
     id: 3,
